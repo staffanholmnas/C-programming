@@ -1,0 +1,10 @@
+Bat,24
+Carp,100
+Eagle,55
+Giant Tortoise,152
+Gorilla,20
+Horse,40
+Koala,8
+Mouse,4
+Parrot,80
+Polar bear,20
